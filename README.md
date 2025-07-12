@@ -32,11 +32,6 @@ python main.py
 python main.py --single
 ```
 
-### Option 3: Use the Jupyter notebook
-```bash
-jupyter notebook examples/alpha_factor_example.ipynb
-```
-
 ## Usage
 
 ### Basic Usage
